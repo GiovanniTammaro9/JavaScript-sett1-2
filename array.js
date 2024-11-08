@@ -7,3 +7,9 @@ for (let i = 0; i < myArray.length; i++){
     somma += myArray[i];
 }
 console.log("la somma degli elementi dell'array è" + somma);
+
+//reverse array
+
+for (let i = myArray.length - 1; i >= 0; i--){
+    console.log(myArray[i]);
+}
