@@ -4,3 +4,4 @@ let person = {
     city: "napoli"
 };
 console.log(person);
+console.log(person.age);
