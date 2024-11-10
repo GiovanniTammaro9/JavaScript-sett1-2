@@ -18,7 +18,7 @@ for (let i = myArray.length - 1; i >= 0; i--){
 let parole = [];
 
 for (let i = 0; i < 5; i++){
-    let parola = prompt("inserisci una parola:")
+   // let parola = prompt("inserisci una parola:")
     parole.push(parola);
 
 }

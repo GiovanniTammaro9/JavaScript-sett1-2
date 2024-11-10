@@ -8,3 +8,5 @@ console.log(person.age);
 
 person.age = "30";
 console.log(person.age);
+person.job = "programmatore";
+console.log(person);

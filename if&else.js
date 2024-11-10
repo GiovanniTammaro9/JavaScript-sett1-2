@@ -8,7 +8,7 @@ if (number > 5) {
 
 //if ed else if
 
-let score = parseInt(prompt("inserisci il numero"));
+//let score = parseInt(prompt("inserisci il numero"));
 if (score >= 90 && score <= 100) {
     console.log("voto ottimo ");
 } else if (score >= 70 && score <= 89) {
