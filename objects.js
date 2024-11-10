@@ -10,3 +10,8 @@ person.age = "30";
 console.log(person.age);
 person.job = "programmatore";
 console.log(person);
+
+for (let proprieta in person) {
+    let valore = person[proprieta];
+    console.log(proprieta + valore);
+}
