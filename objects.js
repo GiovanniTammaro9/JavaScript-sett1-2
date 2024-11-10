@@ -5,3 +5,6 @@ let person = {
 };
 console.log(person);
 console.log(person.age);
+
+person.age = "30";
+console.log(person.age);
